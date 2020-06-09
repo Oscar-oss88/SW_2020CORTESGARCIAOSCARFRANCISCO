@@ -1,0 +1,5 @@
+/(?<![A-z])?\[|([Rr]egex)|\]+(?![A-z])/
+
+Prueba:
+Regex (regex) regex. Soy una regex que le gusta regex porque dice "regex" que esta muy Regex pensando en 'regex' termino diciendo [regex]
+ y soy regexpoderoso, por eso soy regexindestructible indestructibleregex regex: regex. jaja si esta chitoso estoregex 
